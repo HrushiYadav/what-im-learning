@@ -15,3 +15,9 @@ https://github.com/parseablehq/parseable/tree/main
 https://www.youtube.com/watch?v=Rd_04vVLE-4
 
 https://docs.colyseus.io
+
+https://arpitbhayani.me/microservices/designing-workflows-in-microservices-orchestration-vs-choreography
+
+https://arpitbhayani.me/blogs/consistent-hashing/
+
+https://arpitbhayani.me/blogs/wtf-the-who-to-follow-service-at-twitter
