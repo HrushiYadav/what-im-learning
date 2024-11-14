@@ -20,4 +20,8 @@ https://arpitbhayani.me/microservices/designing-workflows-in-microservices-orche
 
 https://arpitbhayani.me/blogs/consistent-hashing/
 
-https://arpitbhayani.me/blogs/wtf-the-who-to-follow-service-at-twitter
+https://arpitbhayani.me/blogs/wtf-the-who-to-follow-service-at-twitter 
+
+https://en.wikipedia.org/wiki/Birthday_problem
+
+https://en.wikipedia.org/wiki/Universally_unique_identifier#Collisions
