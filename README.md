@@ -25,3 +25,5 @@ https://arpitbhayani.me/blogs/wtf-the-who-to-follow-service-at-twitter
 https://en.wikipedia.org/wiki/Birthday_problem
 
 https://en.wikipedia.org/wiki/Universally_unique_identifier#Collisions
+
+https://medium.com/@saulodacruz1999/6-ways-to-use-parallelism-with-tasks-and-threads-in-c-net-20c8bbd62102
