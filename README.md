@@ -29,3 +29,7 @@ https://en.wikipedia.org/wiki/Universally_unique_identifier#Collisions
 https://medium.com/@saulodacruz1999/6-ways-to-use-parallelism-with-tasks-and-threads-in-c-net-20c8bbd62102
 
 https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a
+
+https://m.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc
+
+https://www.youtube.com/watch?v=osKyvYJ3PRM
