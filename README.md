@@ -18,6 +18,4 @@ https://m.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc
 
 https://www.youtube.com/watch?v=osKyvYJ3PRM
 
-https://promptengineering.org/the-black-box-problem-opaque-inner-workings-of-large-language-models/
-
 https://platform.openai.com/docs/guides/fine-tuning
