@@ -19,3 +19,5 @@ https://m.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc
 https://www.youtube.com/watch?v=osKyvYJ3PRM
 
 https://platform.openai.com/docs/guides/fine-tuning
+
+https://medium.com/towards-data-science/neural-network-embeddings-explained-4d028e6f0526
