@@ -23,3 +23,11 @@ https://platform.openai.com/docs/guides/fine-tuning
 https://www.youtube.com/watch?v=KJtZARuO3JY
 
 https://www.youtube.com/watch?v=7xTGNNLPyMI
+
+https://a16z.com/emerging-architectures-for-llm-applications/
+
+https://www.youtube.com/playlist?list=PLbzjzOKeYPCobQBaM1Ysuni5V6LrADXt0
+
+https://medium.com/@rohanbalkondekar/build-your-own-devin-8d8794266315
+
+
