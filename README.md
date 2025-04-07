@@ -30,4 +30,6 @@ https://www.youtube.com/playlist?list=PLbzjzOKeYPCobQBaM1Ysuni5V6LrADXt0
 
 https://medium.com/@rohanbalkondekar/build-your-own-devin-8d8794266315
 
+https://youtu.be/0ML7ZLMdcl4?si=6OEqlivojBw0eXtr
+
 
